@@ -1,6 +1,6 @@
 ### Hi
 
-要做自己想做的, 要成为自己想成为的~
+~
 
 <!--
 **fansenze/fansenze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
