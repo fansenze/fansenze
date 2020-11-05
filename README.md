@@ -1,6 +1,10 @@
 ### Hi
 
-~
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
+
+![github stats](https://github-readme-stats.vercel.app/api?username=fansenze&count_private=true&show_icons=true&theme=dark)
+
+
 
 <!--
 **fansenze/fansenze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
