@@ -2,9 +2,6 @@
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fansenze&layout=compact&theme=dark)
 
-![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=fansenze&count_private=true&show_icons=true&theme=dark)
-
-
 <!--
 **fansenze/fansenze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
